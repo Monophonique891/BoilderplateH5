@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate_html",
+  "version": "1.0.0",
+  "description": "A professional font-end template for building robust and adaptable apps or sites.",
+  "homepage": "https://github.com/Monophonique891/BoilderplateH5#readme",
+  "author": "Bachmann Kevin",
+  "license": "ISC",
+  "keywords": [
+    "html",
+    "template",
+    "font-end",
+    "web-app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monophonique891/BoilderplateH5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Monophonique891/BoilderplateH5/issues"
+  }
+}
